@@ -1,8 +1,8 @@
 👋 Piyush Kumar — AI Product Lead
 
 → Building agentic systems & developer infra
-→ Former: G2, Toptal
-→ Interests: LLM infra, MCPs, sandboxed execution
+→ Toptal, G2
+→ Interests: LLM infra, MCPs, Data products, Agentic experiences
 
 🚀 Current Focus
 - AI agents at scale

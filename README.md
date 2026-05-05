@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 Piyush Kumar — AI Product Lead
 
-<!--
-**pi-netizen/pi-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+→ Building agentic systems & developer infra
+→ Former: G2, Toptal
+→ Interests: LLM infra, MCPs, sandboxed execution
 
-Here are some ideas to get you started:
+🚀 Current Focus
+- Zunesha: AI agents over Incus (sandbox control plane)
+- Agent workflows, orchestration, long-running execution
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 What I care about
+- Turning AI into usable systems (not demos)
+- Infra > wrappers
+- Productizing LLM capabilities
+
+🔧 Projects
+- claude-search → search CLI for Claude session history
+- trim-context → token optimization for LLM prompts
+
+📬 Reach me
+- LinkedIn
+- Email

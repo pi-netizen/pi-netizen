@@ -5,7 +5,7 @@
 → Interests: LLM infra, MCPs, sandboxed execution
 
 🚀 Current Focus
-- Zunesha: AI agents over Incus (sandbox control plane)
+- AI agents at scale
 - Agent workflows, orchestration, long-running execution
 
 🧠 What I care about
@@ -18,5 +18,5 @@
 - trim-context → token optimization for LLM prompts
 
 📬 Reach me
-- LinkedIn
-- Email
+- LinkedIn - https://www.linkedin.com/in/piyush-kumar-00b285b5/ 
+- Email - piyushsunilkumar88@gmail.com
